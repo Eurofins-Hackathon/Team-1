@@ -1,0 +1,14 @@
+C:\CFG\CLI game\bin\Debug\net9.0\CLI game.exe
+C:\CFG\CLI game\bin\Debug\net9.0\CLI game.deps.json
+C:\CFG\CLI game\bin\Debug\net9.0\CLI game.runtimeconfig.json
+C:\CFG\CLI game\bin\Debug\net9.0\CLI game.dll
+C:\CFG\CLI game\bin\Debug\net9.0\CLI game.pdb
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.GeneratedMSBuildEditorConfig.editorconfig
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.AssemblyInfoInputs.cache
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.AssemblyInfo.cs
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.csproj.CoreCompileInputs.cache
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.dll
+C:\CFG\CLI game\obj\Debug\net9.0\refint\CLI game.dll
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.pdb
+C:\CFG\CLI game\obj\Debug\net9.0\CLI game.genruntimeconfig.cache
+C:\CFG\CLI game\obj\Debug\net9.0\ref\CLI game.dll
